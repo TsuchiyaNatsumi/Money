@@ -1,6 +1,3 @@
-//おつりの枚数判定システム
-//500円，100円，50円，10円
-
 import java.util.Scanner;
 public class Money {
     public static void main (String[] args){ 
